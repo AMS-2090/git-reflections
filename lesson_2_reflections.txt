@@ -4,4 +4,7 @@ To start using git for version controlling in your project, 'git init' cmd is us
 -- what differs staging area from repository and working directory --
 Staging area is temporary room in memory which contains things to be commited.
 While repository is the whole project with its history of changes and versions.
-Working directory is a path to the place contains files of project.
+Working directory is a place contains files of project.
+
+-- adding to staging area --
+Staging area is good tool to collect logically connected changes and than commit them all at once.
