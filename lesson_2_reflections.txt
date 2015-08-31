@@ -8,3 +8,6 @@ Working directory is a place contains files of project.
 
 -- adding to staging area --
 Staging area is good tool to collect logically connected changes and than commit them all at once.
+
+-- using branches --
+Branches allows to creating alternate path for developing project with, for example, experimental functionality. That allows to remain primary/main version of code which can be still modified on its own path(master branch).  
