@@ -1,0 +1,18 @@
+'git log' - to show a list of recent commits
+
+'git diff [ID ID]' - to compare a two versions of the code followed by commits IDs
+
+'git clone [address of repo]' - to clone a repository
+
+'git config --global color.ui auto' - to get coloured diff output
+
+'git checkout [ID]' - back temporarily to earlier commit to try it out
+
+'git init' - initiate a new git repository in current working directory;
+				(creates new hidden directory '.git')
+
+'git status' - prints the status of git repository (from current directory)
+
+'git add [file]' -  add file to staging area
+
+ 
