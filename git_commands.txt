@@ -2,6 +2,12 @@
 
 'git diff [ID ID]' - to compare a two versions of the code followed by commits IDs
 
+'git diff' - with no IDs, compares version of files between
+			working directory and staging area
+
+'git diff --staged' - compares version of files between
+						staging area and repository 
+
 'git clone [address of repo]' - to clone a repository
 
 'git config --global color.ui auto' - to get coloured diff output
