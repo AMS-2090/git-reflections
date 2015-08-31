@@ -1,0 +1,7 @@
+-- git init --
+To start using git for version controlling in your project, 'git init' cmd is used to transform your project directory into git repository (after making initial commit). The hidden '.git' directory is being created. It contains indispensable files for saving commits and logs etc.
+
+-- what differs staging area from repository and working directory --
+Staging area is temporary room in memory which contains things to be commited.
+While repository is the whole project with its history of changes and versions.
+Working directory is a path to the place contains files of project.
