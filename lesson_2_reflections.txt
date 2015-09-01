@@ -10,4 +10,10 @@ Working directory is a place contains files of project.
 Staging area is good tool to collect logically connected changes and then commit them all at once.
 
 -- using branches --
-Branches allows to creating alternate path for developing project with, for example, experimental functionality. That allows to remain primary/main version of code which can be still modified on its own path(master branch).  
+Branches allows to creating alternate path for developing project with, for example, experimental functionality. That allows to remain primary/main version of code which can be still modified on its own path(master branch).
+
+-- branch diagrams --
+Drawing the branch diagrams allows to visualize the development of each branches and help to understand their connection etc.
+
+-- merging branches --
+Different two branches can be merged to include changes from both in path with one top ('HEAD'). Then, on diagram, there can be bifurcation on the begining, parallel developing and reunion on the end, which contains both path changes.    
