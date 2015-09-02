@@ -16,4 +16,7 @@ Branches allows to creating alternate path for developing project with, for exam
 Drawing the branch diagrams allows to visualize the development of each branches and help to understand their connection etc.
 
 -- merging branches --
-Different two branches can be merged to include changes from both in path with one top ('HEAD'). Then, on diagram, there can be bifurcation on the begining, parallel developing and reunion on the end, which contains both path changes.    
+Different two branches can be merged to include changes from both in path with one top ('HEAD'). Then, on diagram, there can be bifurcation on the begining, parallel developing and reunion on the end, which contains both path changes.
+
+-- automatic merging vs. manually merging --
+Automatic merging is very useful functionality which accelarate work. However, it can be done when there is no conflict between two (or more) versions of file, in the case of editing file by more people simultaneously. Then, a manually merging comes. Which means that it is needed to enter into the file and choose the final changes to be commited.      
