@@ -34,3 +34,13 @@
 'git branch -d [branch_name]' - deletes the label of chosen branch 
 								(usually after merging)
  
+'git remote' - lists remotes repositories
+
+'git remote add [remote_name] [remote_address]' - adds new repo named 
+						[remote_name] at [remote_address] address (i.e. http)
+
+'git push [remote_name] [branch_name]' - push branch [branch_name] 
+								to the [remote_name] repo   
+
+'git pull [remote_name] [branch_name]' - downloads the branch
+ 							[branch_name] and merge it with local branch
