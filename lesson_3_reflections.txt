@@ -1,0 +1,2 @@
+-- Remote repository --
+Having project in a remote repository allows group of people to work on its latest version in the same time and access from different places.  
