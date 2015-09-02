@@ -26,7 +26,7 @@
 'git checkout -b [new_branch_name]' - Simultaneously creates new branch and 
 										set "HEAD" to work on it
 
-'git merge [branch_1] [branch_2]' - merges two chosen branches
+'git merge [branch_1] [branch_2]' - merges branch_1 into branch_2
 
 'git show [ID]' - shows the introduced changes in commit (followed by ID) in 
 					comparision to parent commit
