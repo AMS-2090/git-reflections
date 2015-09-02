@@ -1,2 +1,9 @@
 -- Remote repository --
-Having project in a remote repository allows group of people to work on its latest version in the same time and access from different places.  
+Having project in a remote repository allows group of people to work on its latest version in the same time and access from different places.
+
+-- Pull changes manually from remote --
+Pulling changes automatically from remote to your local files is not so good
+because your local work could be spontaneously overwritten by changes which are introduced by other people.
+
+-- Forks, Clone, Branches --
+Forking allows you to copy somebody's repository to your own GitHub account. Then, you can clone it to your local computer and then it is ready to edit however you want. You can create new branch and test your experimental features on copied project and if you want to share it, you can push it on GitHub. Your shared changes will appear only on your forked repo on your account, not on account you've forked it.
