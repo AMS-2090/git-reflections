@@ -1,5 +1,7 @@
 'git log' - to show a list of recent commits
 
+'git log -n [#]' - to show a list of # recent commits
+
 'git log --graph --oneline [branch_1] [branch 2]' - prints log for both chosen branches
 
 'git diff [ID ID]' - to compare a two versions of the code followed by commits IDs
