@@ -14,3 +14,5 @@ Undeniable benefit of locally storing copy of last known state of the project is
 -- Pull Request --
 Pull Request allows to propose other person to merge your own modified branch of your fork into him/her master branch.
 
+-- Separate branch --
+Using separete branch is helpful when you want to examine your modification of someone's else project without risk of messing up the original part. TO verify your work you can Pull Requests to test before merging.
