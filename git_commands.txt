@@ -47,5 +47,9 @@
 'git pull [remote_name] [branch_name]' - downloads the branch
  							[branch_name] and merge it with local branch
 
- 'git fetch [remote_name]' - fetching the remote repo without merging with  
- 								local master branch 
+'git fetch [remote_name]' - fetching the remote repo without merging with  
+ 								local master branch
+
+'git show-branch -a' -  shows branches
+
+'git commit' - record changes to the repository
