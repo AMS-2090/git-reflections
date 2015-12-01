@@ -53,3 +53,5 @@
 'git show-branch -a' -  shows branches
 
 'git commit' - record changes to the repository
+
+'git branch' - shows all branches and points out current branch
