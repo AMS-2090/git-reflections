@@ -55,3 +55,10 @@
 'git commit' - record changes to the repository
 
 'git branch' - shows all branches and points out current branch
+
+# remove untracked files from repository #
+git rm -r --cached .
+git add .
+git commit
+###########
+
