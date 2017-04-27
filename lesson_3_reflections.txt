@@ -1,18 +1,18 @@
 -- Remote repository --
-Having project in a remote repository allows group of people to work on its latest version in the same time and access from different places.
+Having project in a remote repository allows group of people to work on its latest version in the same time and to access from different places.
 
 -- Pull changes manually from remote --
 Pulling changes automatically from remote to your local files is not so good
 because your local work could be spontaneously overwritten by changes which are introduced by other people.
 
 -- Forks, Clone, Branches --
-Forking allows you to copy somebody's repository to your own GitHub account. Then, you can clone it to your local computer and then it is ready to edit however you want. You can create new branch and test your experimental features on copied project and if you want to share it, you can push it on GitHub. Your shared changes will appear only on your forked repo on your account, not on account you've forked it.
+Forking allows you to copy somebody's repository to your own GitHub account. Then, you can clone it to your local computer and then it is ready to edit however you want. You can create new branch and test your experimental features on copied project and if you want to share it, you can push it on GitHub. Your shared changes will appear only on your forked repo on your account, not on account you've forked it from.
 
 -- Benefits of having local copy --
-Undeniable benefit of locally storing copy of last known state of the project is access to it and ability to edit even without internet connection. Another profit could be that working on your local version makes no possibility to induce conflict with remote versions being edited in the same time by others.
+Undeniable benefit of storing local copy of the last known state of the project is an access to it and ability to edit even without internet connection. Another profit could be that working on your local version makes no possibility to induce conflict with remote versions being edited in the same time by others.
 
 -- Pull Request --
-Pull Request allows to propose other person to merge your own modified branch of your fork into him/her master branch.
+Pull Request allows to propose other person to merge your own modified branch into him/her master branch.
 
 -- Separate branch --
-Using separete branch is helpful when you want to examine your modification of someone's else project without risk of messing up the original part. TO verify your work you can Pull Requests to test before merging.
+Using separete branch is helpful when you want to examine your modification of someone's else project without risk of messing up the original part.
