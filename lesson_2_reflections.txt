@@ -4,19 +4,19 @@ To start using git for version controlling in your project, 'git init' cmd is us
 -- what differs staging area from repository and working directory --
 Staging area is temporary room in memory which contains things to be commited.
 While repository is the whole project with its history of changes and versions.
-Working directory is a place contains files of project.
+Working directory is a place which contains files of a project.
 
 -- adding to staging area --
 Staging area is good tool to collect logically connected changes and then commit them all at once.
 
 -- using branches --
-Branches allows to creating alternate path for developing project with, for example, experimental functionality. That allows to remain primary/main version of code which can be still modified on its own path(master branch).
+Branches allows creating alternate path for developing project with, for example, experimental functionality. That allows to remain primary/main version of code which can be still modified on its own path (master branch).
 
 -- branch diagrams --
 Drawing the branch diagrams allows to visualize the development of each branches and help to understand their connection etc.
 
 -- merging branches --
-Different two branches can be merged to include changes from both in path with one top ('HEAD'). Then, on diagram, there can be bifurcation on the begining, parallel developing and reunion on the end, which contains both path changes.
+Different two branches can be merged to include changes from both, into a path with a one top ('HEAD'). Then, on a diagram, there can be bifurcation on the begining, parallel developing and reunion on the end, which contains both path changes.
 
 -- automatic merging vs. manually merging --
 Automatic merging is very useful functionality which accelarate work. However, it can be done when there is no conflict between two (or more) versions of file, in the case of editing file by more people simultaneously. Then, a manually merging comes. Which means that it is needed to enter into the file and choose the final changes to be commited.      
