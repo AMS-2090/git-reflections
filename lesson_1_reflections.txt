@@ -1,18 +1,18 @@
 -- comparing files --
-commands 'diff' in Mac/Linux and 'FC' in Windows show differences between two comparing files. It can quickly help with finding bugs, viewing the changes etc.
+commands 'diff' in Mac/Linux and 'FC' in Windows show differences between two compared files. It can quickly help with finding bugs, viewing the changes etc.
 
 -- history of changes --
-Easy access to the entire changes history of a file can really improve programming work in a long term, since programmer can quickly go back to previous well-working version of his code when error occurs and find the changes that might couse the problem.
+Easy access to the entire changes history of a file can really improve programming work in a long term, since programmer can quickly go back to previous well-working version of his code when error occurs and find the changes that might cause the problem.
 
--- pros and cons of manually commiting --
-Pros of the manually creating commit let us to arbitrarily choose moment of logical changes in the program, which is the best moment to save progress.
-Unfortunately, remebering of manually commting is another thing to keep an eye on. Although surely profitable.
+-- pros and cons of manually committing --
+Pros of the manually creating commit let us to arbitrarily choose a moment of logical changes in the program, which is the best stage to save the progress.
+Unfortunately, remembering about manually committing is another thing to keep an eye on. Although surely profitable.
 
 -- git log and git diff --
-With the 'git log' cmd you can see all the commits, done during the coding, with short descriptions say what was fixed/added. Logs are provided with log IDs which is specific for each log. Thanks to these IDs you can use 'git diff' to compare two commits and see which lines were changed and which have been inserted or deleted.
+With the 'git log' cmd you can see all the commits, done during the coding, with short descriptions saying what was fixed/added. Logs are provided with log IDs which is specific for each log. Thanks to these IDs you can use 'git diff' to compare two commits and see which lines were changed and which have been inserted or deleted.
 
 -- Checking out prior commits --
-Thanks to 'checkout' cmd you can temporarily move 'HEAD' (version of code you are working on) from lastest version of code to any of previous commit. Then, you can run the program in that previous ver. and check i.e. which stage has the bug appeared on.
+Thanks to 'checkout' cmd you can temporarily move 'HEAD' (version of code you are working on) from latest version of code to any of previous commit. Then, you can run the program in that previous ver. and check i.e. which stage has the bug appeared on.
 Furthermore, you can introduce changes without fear that you will break sth - it can always be undone now ;).
 
   
